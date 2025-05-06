@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task2 {
+public class task2 {
     public static int countDigits(int num) {
         return Integer.toString(Math.abs(num)).length();
     }
